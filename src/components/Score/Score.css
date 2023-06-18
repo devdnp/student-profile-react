@@ -1,0 +1,9 @@
+.Score{
+    border: 2px solid green;
+    padding: 0.7rem;
+    margin-top: 1rem;
+}
+
+.LeftSpan{
+    padding-left: 2rem;
+}

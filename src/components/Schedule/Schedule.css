@@ -1,0 +1,11 @@
+.Schedule{
+    padding: 1rem;
+    border: 2px solid darkblue;
+    margin-top: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.LeftSpan{
+    margin-left: 2rem;
+}

@@ -1,0 +1,11 @@
+.School{
+    border: 2px solid blueviolet;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.LeftSpan{
+    margin-left: 2rem;
+}
